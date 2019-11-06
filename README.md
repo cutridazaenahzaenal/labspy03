@@ -12,6 +12,8 @@ LATIHAN 1
    i lebih kecil daripada nilai inputan maka berikan nilai random di variabel tersebut
    kemudian di lakukan secara berulang sampai nilai akhir dari variabel nilai terpenuhi
 4. terakhir jika sistem sudah memproses inputan yang kita proses maka sistem memberikan pesan selesai
+![11](https://user-images.githubusercontent.com/56877903/68316832-b1978300-00ec-11ea-97cf-a86cc06bf37b.PNG)
+hasil outputnya
 ![1](https://user-images.githubusercontent.com/56877903/68313705-9aa26200-00e7-11ea-8da1-b3090cd933ae.PNG)
 
 
@@ -23,6 +25,8 @@ LATIHAN 2
 4. buat kondisi dimana variabel number menampung inputan dari yang kita input setelah itu di masukan kedalam variael lst yang sebelumnya      kita buat
 5. jika variabel numbers diinput dengan nilai 0 maka buat kondisi berak
 6. langkah terakhir tentukan nilai terbesar dari inputan yang kita masukan, maka sistem akan menampilkan hasilnya
+![22](https://user-images.githubusercontent.com/56877903/68316844-b6f4cd80-00ec-11ea-8079-bc536c7c42f7.PNG)
+hasil outputnya
 ![2](https://user-images.githubusercontent.com/56877903/68313716-9f671600-00e7-11ea-9a6d-27c41b3838e3.PNG)
 
 
@@ -32,4 +36,6 @@ LATIHAN 3
 2. buat kondisis pertama dari bulan 1 sampai bulan 8
 3. buat variabel dengan nama m,b,c,d,e
 4. kemudian buat variabel dengan nama total maka tampilkan hasil dari nilai nya
+![33](https://user-images.githubusercontent.com/56877903/68316858-ba885480-00ec-11ea-8eab-8c882ced0a73.PNG)
+hasil outputnya
 ![3](https://user-images.githubusercontent.com/56877903/68313728-a3933380-00e7-11ea-8b54-3970a95d096d.PNG)
