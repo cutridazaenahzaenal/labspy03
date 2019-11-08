@@ -23,7 +23,7 @@ LATIHAN 2
 2. kemudian buat lagi variabel dengan nama nilai dan berikan nilai defaultnya 1
 3. kemudian buat lagi variabel dengan nama numbers 
 4. buat kondisi dimana variabel number menampung inputan dari yang kita input setelah itu di masukan kedalam variael lst yang sebelumnya      kita buat
-5. jika variabel numbers diinput dengan nilai 0 maka buat kondisi berak
+5. jika variabel numbers diinput dengan nilai 0 maka buat kondisi break
 6. langkah terakhir tentukan nilai terbesar dari inputan yang kita masukan, maka sistem akan menampilkan hasilnya
 ![22](https://user-images.githubusercontent.com/56877903/68316844-b6f4cd80-00ec-11ea-8079-bc536c7c42f7.PNG)
 hasil outputnya
