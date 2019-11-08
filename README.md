@@ -36,3 +36,4 @@ LATIHAN 3
 2. buat kondisis pertama dari bulan 1 sampai bulan 8
 3. buat variabel dengan nama m,b,c,d,e
 4. kemudian buat variabel dengan nama total maka tampilkan hasil dari nilai nya
+![3 benar](https://user-images.githubusercontent.com/56877903/68483535-5a212080-026e-11ea-983f-b1b14649a7a7.PNG)
